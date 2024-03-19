@@ -177,7 +177,7 @@
 				<Title>copey_limite_entrega</Title>
 				<Abstract>GH:copey_limite_entrega ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/LEGOLAS19901/Mappia_Example/releases/download/Map_Download/copey_limite_entrega.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-73.94423641962183" miny="10.157055820468473" maxx="-73.93719055196924" maxy="10.163162722634715"></LatLonBoundingBox>
